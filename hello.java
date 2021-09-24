@@ -5,6 +5,7 @@ public class hello{
 		System.out.println("hello world");
 		System.out.println("2xx");
 		System.out.println("first update222222");
-		System.out.println(new Date());
+		System.out.println(new Date() );
+		System.out.println(new Date().getTime());
 	}
 }
