@@ -7,5 +7,7 @@ public class hello{
 		System.out.println("first update222222");
 		System.out.println(new Date() );
 		System.out.println(new Date().getTime());
+		System.out.println(new Date());
+		System.out.println(new Date().toInstant());
 	}
 }
